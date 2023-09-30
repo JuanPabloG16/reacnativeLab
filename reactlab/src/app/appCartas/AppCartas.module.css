@@ -36,6 +36,8 @@
 .card {
   border: 1px solid #ccc;
   padding: 20px;
+  width: 200px; /* Ancho de la tarjeta */
+  height: 200px; /* Altura de la tarjeta */
 }
 
 .footer {
